@@ -110,8 +110,7 @@ streamlit run app.py
 
 
 The application will open at:
-
-http://localhost:8501
+https://analysis-of-voltage-and-timestamp-kx6almdxwmydbtdddrdugt.streamlit.app/
 
 🧪 Dependencies
 
